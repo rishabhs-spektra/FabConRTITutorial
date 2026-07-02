@@ -95,7 +95,7 @@ After our lakehouse has been created, the overview page of the lakehouse will be
 
 In this task, you will make the Eventhouse tables from the KQL Database available in our Lakehouse. This will be accomplished by creating shortcuts.
 
-1. Click on the button **Get data** in the menu bar at the top. Choose **New table shortcut** from the dropdown menu.
+1. Click on the button **Get data (1)** in the menu bar at the top. Choose **New table shortcut (2)** from the dropdown menu.
 
     ![](media/E3T3S1.png)
 

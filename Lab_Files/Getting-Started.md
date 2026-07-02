@@ -77,6 +77,12 @@ Feel free to **Start**, **Stop**, or **Restart** **(2)** your virtual machine as
 
 ![](media/getting-started-5upd2.png)
 
+## Resize the Virtual Machine View
+
+Use the **slider (three vertical dots)** located between the **Virtual Machine** and the **Lab Guide** panes to adjust the display size, allowing you to customize the layout based on your preference.
+
+![](media/slider.png)
+
 ## Let's Get Started with Microsoft Fabric portal
  
 1. Open the **Microsoft Edge** browser from the desktop of **LabVM** 
@@ -97,7 +103,7 @@ Feel free to **Start**, **Stop**, or **Restart** **(2)** your virtual machine as
 
       ![](media/guide-59up.png)
 
-1. Enter the following **Temporary Password**, and then click on **Sign in** **(2)**.  
+1. Enter the following **Temporary Access Pass**, and then click on **Sign in** **(2)**.  
 
     - **Temporary Access Pass (1):** <inject key="AzureAdUserPassword"></inject> 
 

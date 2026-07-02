@@ -18,7 +18,7 @@ In this exercise, you will be able to complete the following tasks:
 - Task 2: Enable Auto-refresh on your dashboard  
 - Task 3: Enable Data Activators
 
-### Task 1: Real-Time Dashboard 
+## Task 1: Real-Time Dashboard 
 
 In this task, you will create a Real-Time Dashboard that visualizes the processed streaming data stored in your Eventhouse KQL Database. Using KQL queries, you will build multiple dashboard tiles to monitor metrics such as clicks, impressions, geographic distribution, page load performance, and anomalies. You will also configure the dashboard for continuous refresh in a later task so that it reflects incoming streaming events in near real time.
 
@@ -59,7 +59,7 @@ In this task, you will create a Real-Time Dashboard that visualizes the processe
 
 The **Real-Time Dashboard** is currently empty. In the next series of subtasks, you will gradually build the dashboard by creating individual visuals for different business metrics. Each visual highlights a specific aspect of the streaming data and contributes to the final interactive dashboard
 
-#### Task 1.1: Create the "Click by Hour" visual
+### Task 1.1: Create the "Click by Hour" visual
 
 1. From the **Home (1)** tab, click on the button **Add visual (2)** dropdown and select **Area chart (3)** to create a new tile for the dashboard.
 
@@ -85,7 +85,7 @@ The **Real-Time Dashboard** is currently empty. In the next series of subtasks, 
 
     ![](media/new/E4T1.1S4-1606.png)
 
-#### Task 1.2: Create "Impressions by Hour" visual
+### Task 1.2: Create "Impressions by Hour" visual
 
 1. From the **Home (1)** tab, click on the button **Add visual (2)** dropdown and select **Area chart (3)** to create a new tile for the dashboard.
 
@@ -108,7 +108,7 @@ The **Real-Time Dashboard** is currently empty. In the next series of subtasks, 
 
     ![](media/new/E4T1.2S3-1606.png)
 
-#### Task 1.3: Create "Impressions by Location" visual.
+### Task 1.3: Create "Impressions by Location" visual.
 
 1. From the **Home (1)** tab, click on the button **Add visual (2)** dropdown and select **Map (3)** to create a new tile for the dashboard.
 
@@ -131,7 +131,7 @@ The **Real-Time Dashboard** is currently empty. In the next series of subtasks, 
 
     ![](media/new/E4T1.3S3-1606.png)
 
-#### Task 1.4: Create the "Average Page Load Time" visual
+### Task 1.4: Create the "Average Page Load Time" visual
 
 1. From the **Home (1)** tab, click on the button **Add visual (2)** dropdown and select **Time chart (3)** to create a new tile for the dashboard.
 
@@ -155,7 +155,7 @@ The **Real-Time Dashboard** is currently empty. In the next series of subtasks, 
 
     ![](media/new/E4T1.4S3-1606.png)
 
-#### Task 1.5: Create KPI Summary tiles
+### Task 1.5: Create KPI Summary tiles
 
 1. From the **Home (1)** tab, click on the button **Add visual (2)** dropdown and select **Time chart (3)** to create a new tile for the dashboard.
 
@@ -208,7 +208,7 @@ The **Real-Time Dashboard** is currently empty. In the next series of subtasks, 
 
     ![](media/new/E4T1.5S10-1606.png)
 
-#### Task 1.6: Create the "Average Page Load Time Anomalies" visual
+### Task 1.6: Create the "Average Page Load Time Anomalies" visual
 
 1. From the **Home (1)** tab, click on the button **Add visual (2)** dropdown and select **Anomaly chart (3)** to create a new tile for the dashboard.
 
@@ -231,7 +231,7 @@ The **Real-Time Dashboard** is currently empty. In the next series of subtasks, 
 
    ![](media/new/E4T1.6S3-1606.png)
 
-#### Task 1.7: Create the "Strong Anomalies" visual
+### Task 1.7: Create the "Strong Anomalies" visual
 
 1. From the **Home (1)** tab, click on the button **Add visual (2)** dropdown and select **Table (3)** to create a new tile for the dashboard.
 
@@ -256,7 +256,7 @@ The **Real-Time Dashboard** is currently empty. In the next series of subtasks, 
 
    ![](media/new/E4T1.7S3-1606.png)
 
-#### Task 1.8: Add the dashboard logo and arrange the layout
+### Task 1.8: Add the dashboard logo and arrange the layout
 
 1. To add a **Logo**, click on the **Add Markdown** button from the top menu bar.
 
@@ -283,7 +283,7 @@ The **Real-Time Dashboard** is currently empty. In the next series of subtasks, 
 
 <validation step="02a20e12-54b5-4b37-9c8f-d4198f9f4430" />
 
-### Task 2: Enable auto-refresh on your dashboard
+## Task 2: Enable auto-refresh on your dashboard
 
 In this task, you will enable auto-refresh so the dashboard will be automatically updated while it is shown on screen.
 
@@ -299,7 +299,7 @@ In this task, you will enable auto-refresh so the dashboard will be automaticall
 
     ![](media/new/52.png)
 
-### Task 3: Enable Data Activators
+## Task 3: Enable Data Activators
 
 In this task, you will create a Reflex Alert that will send a Teams Message when a value meets a certain threshold.
 

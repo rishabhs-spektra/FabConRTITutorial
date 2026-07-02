@@ -19,7 +19,7 @@ In this exercise, you will be able to complete the following tasks:
 - Task 3: Create an Eventhouse.
 - Task 4: Enable OneLake Availability.
 
-### Task 1: Experience Real-Time Intelligence
+## Task 1: Experience Real-Time Intelligence
 
 In this task, you will explore Real-Time Intelligence and its categories, gaining an understanding of its various components and functionalities.
 
@@ -62,7 +62,7 @@ In this task, you will explore Real-Time Intelligence and its categories, gainin
        
        ![](media/new/2.png)
 
-### Task 2: Create a Fabric Workspace
+## Task 2: Create a Fabric Workspace
 
 In this task, you will create a workspace to begin working with Real-Time Intelligence.
 
@@ -95,7 +95,7 @@ In this task, you will create a workspace to begin working with Real-Time Intell
 
 <validation step="0cf9b162-7a65-422c-b1f0-86178c692f30" />
 
-### Task 3: Create an Eventhouse
+## Task 3: Create an Eventhouse
 In this task, you will create an Eventhouse, which is used for storing, processing, and analyzing real-time streaming data efficiently within Microsoft Fabric.
 
 1. Click the **+ New item** button to open a new pane that has all the items you can create in this Fabric workspace.
@@ -121,7 +121,7 @@ In this task, you will create an Eventhouse, which is used for storing, processi
 
 <validation step="e0e12ffc-7d34-4768-aaef-c3d89d6e615f" />
 
-### Task 4: Enable OneLake Availability
+## Task 4: Enable OneLake Availability
 In this task, you’ll enable OneLake Availability to automatically copy KQL Database data to OneLake in Delta format, allowing seamless querying through Lakehouse and other tools. It’s best enabled before loading large datasets and can be set per table.
 
 1. When an Eventhouse is created, a KQL Database with the same name is created as well. To open the KQL Database, click on the Database **WebEvents_EH** in the section **KQL Databases**.

@@ -19,7 +19,7 @@ In this exercise, you will be able to complete the following tasks:
 - Task 3: Accessing Eventhouse data from the lakehouse 
 - Task 4: Build the KQL DB schema
 
-### Task 1: Setting up the Lakehouse
+## Task 1: Setting up the Lakehouse
 
 In this task, you will set up the Lakehouse to contain additional information for our use case and make the data from the KQL Database accessible through it.
 
@@ -53,7 +53,7 @@ In this task, you will set up the Lakehouse to contain additional information fo
 
 <validation step="36131701-01b8-4da8-bb9d-b1a686ec3df5" />
 
-### Task 2: Create delta tables in the lakehouse
+## Task 2: Create delta tables in the lakehouse
 
 After our lakehouse has been created, the overview page of the lakehouse will be displayed. In this task, we will load static data into our new lakehouse. To do so please execute the following steps.
 
@@ -91,7 +91,7 @@ After our lakehouse has been created, the overview page of the lakehouse will be
 
     ![](media/20042026(4).png)
 
-### Task 3: Accessing Eventhouse data from the lakehouse
+## Task 3: Accessing Eventhouse data from the lakehouse
 
 In this task, you will make the Eventhouse tables from the KQL Database available in our Lakehouse. This will be accomplished by creating shortcuts.
 
@@ -121,7 +121,7 @@ In this task, you will make the Eventhouse tables from the KQL Database availabl
 
     ![](media/20042026(5).png)
 
-### Task 4: Build the KQL DB schema
+## Task 4: Build the KQL DB schema
 
 In this task, you will create all the silver tables, functions, and enable update policies in our Eventhouse KQL Database. Two of the tables (`product` and `productCategory`) are shortcuts to the lakehouse, and the data is not being copied into our KQL Database.
 
